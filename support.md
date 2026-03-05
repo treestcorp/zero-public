@@ -2,7 +2,7 @@
 layout: base
 ---
 
-# GOM Customer Support
+# Nudgy Customer Support
 
 Welcome to the Treest support page. We're here to help you get the most out of your English writing practice.
 
@@ -25,7 +25,7 @@ persists, please contact us using the email above.
 To request account deletion, please contact us from the email address associated with your account. We will process your
 request within 7 business days.
 
-### Can I use GOM on multiple devices?
+### Can I use Nudgy on multiple devices?
 
 Yes, your progress syncs across devices as long as you are signed in with the same account.
 
