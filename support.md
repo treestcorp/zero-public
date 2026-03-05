@@ -27,7 +27,7 @@ request within 7 business days.
 
 ### Can I use Nudgy on multiple devices?
 
-Yes, your progress syncs across devices as long as you are signed in with the same account.
+Your progress syncs across devices as long as you are signed in with the same account.
 
 ## Report a Bug
 
@@ -42,7 +42,3 @@ If you encounter a bug or unexpected behavior, please contact us with the follow
 
 - [Privacy Policy](/privacy-policy)
 - [Terms of Service](/terms-of-service)
-
----
-
-Treest — Practice English Writing, One Sentence at a Time.
